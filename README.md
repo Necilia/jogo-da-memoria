@@ -26,8 +26,3 @@ O Jogo da Memória é um jogo simples em que o jogador deve encontrar os pares d
     ```
 3. Abra o arquivo `index.html` no seu navegador para jogar.
 
-## Como Contribuir
-Se quiser contribuir com o projeto, basta criar uma nova branch, fazer suas alterações e enviar um pull request. Agradecemos pela sua contribuição!
-
-## Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
